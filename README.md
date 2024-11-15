@@ -70,6 +70,42 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  
 **Logic symbol & Truthtable**
 
+**AND gate**
+
+![and](https://github.com/user-attachments/assets/60d1f83b-3f30-4b72-b787-497c863be8b9)
+
+
+**OR gate**
+
+![or](https://github.com/user-attachments/assets/ab7d5d06-efd5-4ccd-8d83-850eba120731)
+
+
+**NOT gate**
+
+![not](https://github.com/user-attachments/assets/ccce7026-c7c3-4074-a4c6-6a9af784b1a3)
+
+
+**NAND gate**
+
+![nand](https://github.com/user-attachments/assets/84abf508-83e1-46a9-952f-6e8d091a5a02)
+
+
+**NOR gate**
+
+![nor](https://github.com/user-attachments/assets/2e8842ce-f37c-46ba-996d-151d9e0cf2cd)
+
+
+
+**Ex-OR gate**
+
+![xor](https://github.com/user-attachments/assets/18f27040-430a-4f3e-b022-cf2449930396)
+
+
+**Ex-NOR gate**
+
+![xnor](https://github.com/user-attachments/assets/7a1d704f-6846-4104-a128-a91f9bf734fa)
+
+
 **RTL realization Output:** 
 
 **RTL**
