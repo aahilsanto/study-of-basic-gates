@@ -1,4 +1,4 @@
-### study-of-basic-gates
+### EXP1: Study of Basic Digital IC’s and Verification of Truth Tables for Different Logic Gates, Realization Using Verilog
 
 **AIM:** 
 
