@@ -1,9 +1,14 @@
+Name: A Ahil Santo
+
+Register Number: 24900087
+
 ### EXP1: Study of Basic Digital IC’s and Verification of Truth Tables for Different Logic Gates, Realization Using Verilog
 
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
 
+    
 **Equipments Required:**
 
 Software – Quartus prime 
@@ -65,8 +70,19 @@ Y= A⊕B
 **PROGRAM**
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by: RegisterNumber: 
+```
+module exp_1(a,b,y1,y2,y3,y4,y5,y6,y7);
+input a,b;
+output y1,y2,y3,y4,y5,y6,y7;
+and g1(y1,a,b);
+or g2(y2,a,b);
+not g3(y3,a);
+nand g4(y4,a,b);
+nor g5(y5,a,b);
+xor g6(y6,a,b);
+xnor g7(y7,a,b);
+endmodule 
+```
  
 **Logic symbol & Truthtable**
 
@@ -108,8 +124,15 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 **RTL realization Output:** 
 
+![RTL realization Output](https://github.com/user-attachments/assets/5178594f-5e51-4e93-8c8c-71b05c1c4c46)
+
+
 **RTL**
+
+![waveform](https://github.com/user-attachments/assets/49a471f4-9460-4cbb-bd95-a0ec55fe9a03)
+
 
 **Result:**
 
+Basic digital ICs and the verification of truth tables for different logic gates were studied and successfully realized using Verilog.
 
